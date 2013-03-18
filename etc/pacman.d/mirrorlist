@@ -246,9 +246,9 @@
 #Server = http://mirror-fpt-telecom.fpt.net/archlinux/$repo/os/$arch
 
 
-Server = ftp://ftp.osuosl.org/pub/archlinux/$repo/os/$arch   # Fast, but not always completely up-to-date
-Server = ftp://mirrors.kernel.org/archlinux/$repo/os/x86_64
-Server = ftp://locke.suu.edu/linux/dist/archlinux/$repo/os/$arch   # Fast
+Server = http://ftp.osuosl.org/pub/archlinux/$repo/os/$arch   # Fast, but not always completely up-to-date
+Server = http://mirrors.kernel.org/archlinux/$repo/os/x86_64
+Server = http://locke.suu.edu/linux/dist/archlinux/$repo/os/$arch   # Fast
 #Server = ftp://ftp.archlinux.org/$repo/os/$arch   # Slow
 #Server = ftp://ftp.gtlib.gatech.edu/pub/linux/distributions/archlinux/$repo/os/$arch
 #Server = ftp://ibiblio.org/pub/linux/distributions/archlinux/$repo/os/$arch
